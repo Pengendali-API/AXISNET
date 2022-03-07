@@ -1,3 +1,3 @@
 # AXISNET
 
-Download Latest https://github.com/Pengendali-API/AXISNET/releases/latest/axisnet.7z
+Download Latest https://github.com/Pengendali-API/AXISNET/releases/latest/download/axisnet.7z
